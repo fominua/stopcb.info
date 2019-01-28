@@ -146,6 +146,7 @@ html {
 
 .link {
   text-decoration: none;
+  color: #ffffff;
 }
 .link--hidden {
   position: absolute;
